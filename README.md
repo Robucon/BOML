@@ -53,7 +53,7 @@ boml_ho.ul_problem(loss_outer, args.mlr, inner_grad,
 boml_ho.aggregate_all()
 ```
 ## Documentation 
-For more detailed information of basic function and construction process, please refer to our [Github Page](https://boml.readthedocs.io/en/latest/) or [Help Documentation](https://dut-media-lab.github.io/BOML/). Scripts in the directory named test_script are useful for constructing general training process.
+For more detailed information of basic function and construction process, please refer to our [Github Page](https://dut-media-lab.github.io/BOML) or [Documentation](/https://boml.readthedocs.io/en/latest/) on Read the Docs. Scripts in the directory named test_script are useful for constructing general training process.
 
 Here we give recommended settings for specific hyper paremeters to quickly test performance of popular algorithms.
 
